@@ -1,9 +1,5 @@
 module.exports = {
-  "modulePaths": [
-    "<rootDir>"
-  ],
-  "moduleDirectories": [
-    "node_modules",
-    "src"
-  ]
+  verbose: true,
+  moduleFileExtensions: ['js'],
+  modulePaths: ["<rootDir>"]
 };
