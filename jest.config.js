@@ -1,5 +1,5 @@
 module.exports = {
   verbose: true,
-  moduleFileExtensions: ['js'],
+  moduleFileExtensions: ['js', 'json'],
   modulePaths: ["<rootDir>"]
 };
