@@ -2,7 +2,8 @@
 
 ![npm version](https://img.shields.io/npm/v/@shaunmolloy/joi-postcode)
 
-Joi postcode extension using [ideal-postcodes/postcode](https://github.com/ideal-postcodes/postcode).
+Validate postcodes with this Joi postcode extension.  
+Using [ideal-postcodes/postcode](https://github.com/ideal-postcodes/postcode) behind the scenes.
 
 ### Install
 
