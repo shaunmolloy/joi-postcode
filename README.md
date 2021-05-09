@@ -16,3 +16,7 @@ import JoiPostcode from 'joi-postcode';
 const schema = JoiPostcode.string();
 schema.validate('SW1A 2AA');
 ```
+
+### License
+
+MIT
