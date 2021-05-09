@@ -14,7 +14,7 @@ npm i @shaunmolloy/joi-postcode
 ### Basic usage
 
 ```js
-import JoiPostcode from 'joi-postcode';
+import JoiPostcode from '@shaunmolloy/joi-postcode';
 
 const schema = JoiPostcode.string();
 schema.validate('SW1A 2AA');
