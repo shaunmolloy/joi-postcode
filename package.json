@@ -1,6 +1,8 @@
 {
   "name": "@shaunmolloy/joi-postcode",
   "version": "1.0.0",
+  "description": "Validate postcodes with this Joi postcode extension",
+  "main": "src/postcode.js",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch"
@@ -11,6 +13,12 @@
   },
   "author": "Shaun Molloy",
   "license": "ISC",
+  "keywords": [
+    "npm",
+    "shaunmolloy",
+    "joi",
+    "postcode"
+  ],
   "bugs": {
     "url": "https://github.com/shaunmolloy/joi-postcode/issues"
   },
