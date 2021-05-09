@@ -1,5 +1,5 @@
 {
-  "name": "joi-postcode",
+  "name": "@shaunmolloy/joi-postcode",
   "version": "1.0.0",
   "scripts": {
     "test": "jest",
