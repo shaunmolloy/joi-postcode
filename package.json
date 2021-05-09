@@ -1,6 +1,6 @@
 {
   "name": "@shaunmolloy/joi-postcode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Validate postcodes with this Joi postcode extension",
   "main": "src/postcode.js",
   "scripts": {
