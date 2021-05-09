@@ -2,6 +2,12 @@
 
 Joi postcode extension using [ideal-postcodes/postcode](https://github.com/ideal-postcodes/postcode).
 
+### Install
+
+```sh
+npm i @shaunmolloy/joi-postcode
+```
+
 ### Basic usage
 
 ```js
